@@ -1,0 +1,23 @@
+{
+  "name": "Best Time Fitness",
+  "short_name": "Best Time",
+  "description": "Best Time Fitness",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#facc15",
+  "icons": [
+    {
+      "src": "/favicon_io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon_io/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

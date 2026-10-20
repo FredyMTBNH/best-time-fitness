@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Spinning",
+        "subtitle": "Cardio intenso y divertido",
+        "description": "Clases de spinning con musica y energia.",
+        "features": [
+            "Cardio",
+            "Clases grupales",
+            "Lunes, Miercoles y Viernes",
+            "De 6pm a 8pm"
+        ],
+        "imageSrc": "/spinning-img.jpg",
+        "imageAlt": "Imagen de Spinning",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 2,
+        "title": "Workout",
+        "subtitle": "Trabaja duro cada musculo",
+        "description": "Entrenamiento funcional para mejorar tu fuerza y resistencia.",
+        "features": [
+            "Entrenamiento funcional",
+            "Mejora tu fuerza",
+            "Aumenta tu resistencia",
+            "Todos los dias"
+        ],
+        "imageSrc": "/workout-img.jpg",
+        "imageAlt": "Imagen de Workout",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 3,
+        "title": "Zumba",
+        "subtitle": "Baila y quemas calorias",
+        "description": "Clases de zumba con musica y baile.",
+        "features": [
+            "Zumba",
+            "Clases grupales",
+            "Lunes, Miercoles y Viernes",
+            "De 6pm a 8pm"
+        ],
+        "imageSrc": "/zumba-img.jpg",
+        "imageAlt": "Imagen de Zumba",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 4,
+        "title": "Yoga",
+        "subtitle": "Calma tu mente y fortalece tu cuerpo",
+        "description": "Clases de yoga con musica y relajacion.",
+        "features": [
+            "Yoga",
+            "Clases grupales",
+            "Martes y Jueves",
+            "De 2pm a 4pm"
+        ],
+        "imageSrc": "/yoga-img.jpg",
+        "imageAlt": "Imagen de Yoga",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 5,
+        "title": "Taekwondo",
+        "subtitle": "Mejora tu disciplina y defensa personal",
+        "description": "Clases de taekwondo con maestros experimentados.",
+        "features": [
+            "Taekwondo",
+            "Todas las edades",
+            "Lunes, Miercoles y Jueves",
+            "De 5pm a 9pm"
+        ],
+        "imageSrc": "/taekwondo-img.jpg",
+        "imageAlt": "Imagen de Taekwondo",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 6,
+        "title": "BarreFit",
+        "subtitle": "Tonifica y define tu cuerpo",
+        "description": "Clases de BarreFit para todas las edades.",
+        "features": [
+            "BarreFit",
+            "Clases grupales",
+            "Miercoles",
+            "De 2pm a 3pm"
+        ],
+        "imageSrc": "/barrefit-img.jpg",
+        "imageAlt": "Imagen de BarreFit",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 7,
+        "title": "JumpingFit",
+        "subtitle": "Quema calorias con ritmo y saltando",
+        "description": "Clases de JumpinFit con el mejor equipamiento.",
+        "features": [
+            "JumpingFit",
+            "Clases grupales",
+            "Martes",
+            "De 9pm a 10pm"
+        ],
+        "imageSrc": "/jumpingfit.webp",
+        "imageAlt": "Imagen de JumpingFit",
+        "ctaLabel": "Entrena Ahora"
+    },
+    {
+        "id": 8,
+        "title": "HIIT",
+        "subtitle": "Cardio intenso para quemar calorias",
+        "description": "Clases de cardio con entrenadores experimentados.",
+        "features": [
+            "HIIT",
+            "Clases grupales",
+            "Todos los dias",
+            "De 7pm a 11pm"
+        ],
+        "imageSrc": "/hiit-img.jpg",
+        "imageAlt": "Imagen de HIIT",
+        "ctaLabel": "Entrena Ahora"
+    }
+]
